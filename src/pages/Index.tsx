@@ -40,7 +40,7 @@ const Index = () => {
               <Phone className="w-10 h-10" />
               +1 (888) 660-0507
             </div>
-            <a href="tel:+18774154823">
+            <a href="tel:+18886600507">
               <Button 
                 size="lg" 
                 className="bg-orange-500 hover:bg-orange-600 text-white text-lg px-10 py-4 rounded-full mb-6 shadow-lg"
@@ -295,7 +295,7 @@ const Index = () => {
           </p>
           
           <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8 max-w-md mx-auto">
-            <a href="tel:+18774154823" className="block">
+            <a href="tel:+18886600507" className="block">
               <div className="text-3xl font-bold mb-4 text-yellow-300 flex items-center justify-center gap-2 cursor-pointer hover:text-yellow-200 transition-colors">
                 <Phone className="w-8 h-8" />
                 Call +1 (888) 660-0507
